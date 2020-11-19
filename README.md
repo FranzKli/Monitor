@@ -1,3 +1,2 @@
 # Monitor
 Azure Function
-Hi
